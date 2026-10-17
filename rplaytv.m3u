@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="News",ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 group-title="News",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 group-title="News",NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 group-title="News",Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="News",WeatherNation
+https://cdn3.wowza.com/5/M0VhM1N3YzJ3YzVt/WeatherNation/playlist.m3u8
+#EXTINF:-1 group-title="News",Court TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-courttv-courttv-xumo/playlist.m3u8
+#EXTINF:-1 group-title="News",Cheddar
+https://cheddar.akamaized.net/Content/Channel/cheddar/Primary/playlist.m3u8
+#EXTINF:-1 group-title="Classic TV",BUZZR
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+#EXTINF:-1 group-title="Classic TV",Retro TV
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+#EXTINF:-1 group-title="Classic TV",Heartland
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
+#EXTINF:-1 group-title="Comedy",Drybar Comedy
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Music Channel
+http://media.boni-records.com/index.m3u8
